@@ -5,7 +5,7 @@ import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
-const baseurl = "https://teledax.aryanvikash.com";
+const baseurl = "https://indextg.herokuapp.com";
 
 Future<Chatid> getchatid() async {
   try {
